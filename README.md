@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on Rust Analyzer
+
+![](https://github-readme-stats.vercel.app/api?username=harpsword)
+
 <!--
 **harpsword/harpsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
