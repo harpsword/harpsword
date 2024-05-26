@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Rust
-- 🔭 I’m currently working on Rust Analyzer
+- 🔭 I’m currently working on Compiler
 
 ![](https://github-readme-stats.vercel.app/api?username=harpsword)
 
